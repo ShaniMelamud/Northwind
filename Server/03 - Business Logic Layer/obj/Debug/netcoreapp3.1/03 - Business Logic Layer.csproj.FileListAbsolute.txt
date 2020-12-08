@@ -1,0 +1,14 @@
+C:\Projects John Bryce\2020-08-18\Northwind\03 - Business Logic Layer\bin\Debug\netcoreapp3.1\03 - Business Logic Layer.deps.json
+C:\Projects John Bryce\2020-08-18\Northwind\03 - Business Logic Layer\bin\Debug\netcoreapp3.1\03 - Business Logic Layer.dll
+C:\Projects John Bryce\2020-08-18\Northwind\03 - Business Logic Layer\bin\Debug\netcoreapp3.1\03 - Business Logic Layer.pdb
+C:\Projects John Bryce\2020-08-18\Northwind\03 - Business Logic Layer\bin\Debug\netcoreapp3.1\01 - Data Access Layer.dll
+C:\Projects John Bryce\2020-08-18\Northwind\03 - Business Logic Layer\bin\Debug\netcoreapp3.1\02 - Business Model.dll
+C:\Projects John Bryce\2020-08-18\Northwind\03 - Business Logic Layer\bin\Debug\netcoreapp3.1\02 - Business Model.pdb
+C:\Projects John Bryce\2020-08-18\Northwind\03 - Business Logic Layer\bin\Debug\netcoreapp3.1\01 - Data Access Layer.pdb
+C:\Projects John Bryce\2020-08-18\Northwind\03 - Business Logic Layer\obj\Debug\netcoreapp3.1\03 - Business Logic Layer.csprojAssemblyReference.cache
+C:\Projects John Bryce\2020-08-18\Northwind\03 - Business Logic Layer\obj\Debug\netcoreapp3.1\03 - Business Logic Layer.AssemblyInfoInputs.cache
+C:\Projects John Bryce\2020-08-18\Northwind\03 - Business Logic Layer\obj\Debug\netcoreapp3.1\03 - Business Logic Layer.AssemblyInfo.cs
+C:\Projects John Bryce\2020-08-18\Northwind\03 - Business Logic Layer\obj\Debug\netcoreapp3.1\03 - Business Logic Layer.csproj.CopyComplete
+C:\Projects John Bryce\2020-08-18\Northwind\03 - Business Logic Layer\obj\Debug\netcoreapp3.1\03 - Business Logic Layer.dll
+C:\Projects John Bryce\2020-08-18\Northwind\03 - Business Logic Layer\obj\Debug\netcoreapp3.1\03 - Business Logic Layer.pdb
+C:\Projects John Bryce\2020-08-18\Northwind\03 - Business Logic Layer\obj\Debug\netcoreapp3.1\03 - Business Logic Layer.csproj.CoreCompileInputs.cache

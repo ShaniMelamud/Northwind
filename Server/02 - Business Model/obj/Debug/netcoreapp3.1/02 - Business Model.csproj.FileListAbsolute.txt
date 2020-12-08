@@ -1,0 +1,12 @@
+C:\Projects John Bryce\2020-08-18\Northwind\02 - Business Model\bin\Debug\netcoreapp3.1\02 - Business Model.deps.json
+C:\Projects John Bryce\2020-08-18\Northwind\02 - Business Model\bin\Debug\netcoreapp3.1\02 - Business Model.dll
+C:\Projects John Bryce\2020-08-18\Northwind\02 - Business Model\bin\Debug\netcoreapp3.1\02 - Business Model.pdb
+C:\Projects John Bryce\2020-08-18\Northwind\02 - Business Model\bin\Debug\netcoreapp3.1\01 - Data Access Layer.dll
+C:\Projects John Bryce\2020-08-18\Northwind\02 - Business Model\bin\Debug\netcoreapp3.1\01 - Data Access Layer.pdb
+C:\Projects John Bryce\2020-08-18\Northwind\02 - Business Model\obj\Debug\netcoreapp3.1\02 - Business Model.csprojAssemblyReference.cache
+C:\Projects John Bryce\2020-08-18\Northwind\02 - Business Model\obj\Debug\netcoreapp3.1\02 - Business Model.AssemblyInfoInputs.cache
+C:\Projects John Bryce\2020-08-18\Northwind\02 - Business Model\obj\Debug\netcoreapp3.1\02 - Business Model.AssemblyInfo.cs
+C:\Projects John Bryce\2020-08-18\Northwind\02 - Business Model\obj\Debug\netcoreapp3.1\02 - Business Model.csproj.CopyComplete
+C:\Projects John Bryce\2020-08-18\Northwind\02 - Business Model\obj\Debug\netcoreapp3.1\02 - Business Model.dll
+C:\Projects John Bryce\2020-08-18\Northwind\02 - Business Model\obj\Debug\netcoreapp3.1\02 - Business Model.pdb
+C:\Projects John Bryce\2020-08-18\Northwind\02 - Business Model\obj\Debug\netcoreapp3.1\02 - Business Model.csproj.CoreCompileInputs.cache
